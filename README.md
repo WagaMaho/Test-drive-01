@@ -1,5 +1,11 @@
 <h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> hai aku yoga </h2>
 
+<div align="center">
+<p align="center">
+  <!---  <img alt="Banner" width="961" height="400"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> --->
+  <img alt="Banner" style="{max-height: 0px}"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</p>
+<!--- portfolio launch image -
 Watashi no na wa Waga Maho. Renrei sanjyuu sansai. Jitaku wa Morioh-cho hokuto no bu no bessojidai ni ari, kekkon wa shiite-inai, Shigoto wa Kame-yu chen-ten no kai sha-in de, maiinichi osokuto mo yoru hachii-ji made ni wa kitakusuru. Tabaco-o wa sumanai, sake wa tashinamu-tedo, yoru juu-ichi ji ni wa toko nitsukii, kanarazu hajii-jikan wa suii-min o toru yo-o ni shiiteiru. Neru mae ni at-ta-kae miruuku o nomi ni-juu pun hodo no suutorechi de karada o homu-shite kara toko nitsuku-to hodon do asa made jukusui-sa. Akanbo no yo ni hiro ya suutoresu o noku sazu nii asa me o samaserunda. Kenko-o shintan de mo ijyo nashito iwaretaiyo.
 
 Watashi wa tsune nii kokoro o heion o ne-gate ik-terun ningen toyukoto o setsumei-shite-iru no dai-yo. Kachi make ni koda wa-tari, atama o kakaeruyoo na torabuuruu to ka, yoru mo nemurenai to ita teki o tsukuranai. Toyuu no ga watashii no shakai ni taisuru shise de ari, sorega jibun no kofuku da to toyuukoto o shiteiru. Mo-tomo tatakatte da toshitemo, watashi wa dare ni mo makenn ga ne...
